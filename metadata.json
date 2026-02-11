@@ -1,0 +1,7 @@
+{
+  "name": "LondonWay Assistant",
+  "description": "A friendly, reliable London travel assistant that guides you through the city's transport network with Oyster and contactless support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
